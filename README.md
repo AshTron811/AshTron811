@@ -10,6 +10,10 @@
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AshTron811&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/AshTron811"><img src="https://img.shields.io/badge/GitHub-AshTron811-181717?logo=github" alt="GitHub Repo" /></a>
+</p>
+
 # 👋 Hi, I’m Ashutosh Sharma
 
 **AI Developer | M.Sc. Data Science & Spatial Analytics (AI Algorithms)**
