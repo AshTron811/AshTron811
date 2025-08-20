@@ -36,7 +36,7 @@ I once wrote an article that got 11K+ shares! 🎉
 
 <p align="center">
   <a href="https://x.com/ashutosh10615">
-    <img src="https://img.shields.io/badge/@ashutosh10615-1DA1F2?logo=x&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/@ashutosh10615-000000?logo=x&logoColor=white" alt="X" />
   </a>
 </p>
 
