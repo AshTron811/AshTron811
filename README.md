@@ -48,7 +48,7 @@ I once wrote an article that got 11K+ shares! 🎉
 ---
 
 <p align="center">
-  <a href="https://twitter.com/ashtron811"><img src="https://img.shields.io/badge/Twitter-@ashtron811-1DA1F2?logo=twitter" alt="Twitter" /></a>
+  <a href="https://x.com/ashutosh10615"><img src="https://img.shields.io/badge/X-@ashutosh10615-1DA1F2?logo=X" alt="X" /></a>
 </p>
 
 <!-- Activity and Streak Graphs -->
