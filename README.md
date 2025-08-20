@@ -55,6 +55,5 @@ I once wrote an article that got 11K+ shares! 🎉
 <!-- Activity and Streak Graphs -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AshTron811&theme=radical&area=true&hide_border=true" alt="Activity Graph" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshTron811&theme=radical" alt="Streak Stats" />
 </p>
