@@ -39,7 +39,7 @@ I once wrote an article that got 11K+ shares! 🎉
     <img src="https://img.shields.io/badge/@ashutosh10615-000000?logo=x&logoColor=white" alt="X" style="display:inline-block; margin-right:8px;" border="0"/>
   </a>
   <a href="https://www.linkedin.com/in/ashutosh-sharma-7271b01a0">
-    <img src="https://img.shields.io/badge/Ashutosh%20Sharma-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" style="display:inline-block; margin-left:8px;" border="0"/>
+    <img src="https://img.shields.io/badge/-Ashutosh%20Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" border="0"/>
   </a>
 </p>
 
