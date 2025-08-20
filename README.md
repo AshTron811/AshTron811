@@ -37,17 +37,12 @@ I once wrote an article that got 11K+ shares! 🎉
 <p align="center">
   <a href="https://x.com/ashutosh10615">
     <img src="https://img.shields.io/badge/@ashutosh10615-000000?logo=x&logoColor=white"
-         alt="X badge" width="146"/>
+         alt="X badge"/>
   </a>
   <a href="https://www.linkedin.com/in/ashutosh-sharma-7271b01a0">
-    <svg height="28" xmlns="http://www.w3.org/2000/svg">
-      <!-- LinkedIn icon -->
-      <image x="0" y="4" width="20" height="20"
-             href="https://static.licdn.com/aero-v1/sc/h/5bukxbhy9xsil5mb7c2wulfbx"/>
-      <!-- Name badge (shifted 22 px to clear the icon) -->
-      <image x="22" y="0" height="28"
-             href="https://img.shields.io/badge/Ashutosh%20Sharma-0077B5?logo=linkedin&logoColor=white"/>
-    </svg>
+    <!-- one composite badge: icon + name in the same SVG -->
+    <img src="https://img.shields.io/badge/ in  Ashutosh Sharma-0077B5?logo=linkedin&logoColor=white"
+         alt="LinkedIn badge"/>
   </a>
 </p>
 
