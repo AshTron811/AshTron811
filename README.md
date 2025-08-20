@@ -48,7 +48,6 @@ I once wrote an article that got 11K+ shares! 🎉
 ---
 
 <p align="center">
-  <a href="https://github.com/AshTron811"><img src="https://img.shields.io/badge/GitHub-AshTron811-181717?logo=github" alt="GitHub" /></a>
   <a href="https://twitter.com/ashtron811"><img src="https://img.shields.io/badge/Twitter-@ashtron811-1DA1F2?logo=twitter" alt="Twitter" /></a>
 </p>
 
