@@ -25,7 +25,6 @@
 ## 📫 How to reach me
 
 * 📧 Email: [ashutosh10615@gmail.com](mailto:ashutosh10615@gmail.com)
-* 💼 LinkedIn: [ashutosh-sharma-7271b01a0](https://www.linkedin.com/in/ashutosh-sharma-7271b01a0/)
 * 🌐 Portfolio: [my-portfolio-9czj.onrender.com](https://my-portfolio-9czj.onrender.com)
 
 ## ⚡ Fun fact
