@@ -45,7 +45,7 @@ I once wrote an article that got 11K+ shares! 🎉
   <a href="https://www.linkedin.com/in/ashutosh-sharma-7271b01a0" style="display:block">
     <img src="https://static.licdn.com/aero-v1/sc/h/5bukxbhy9xsil5mb7c2wulfbx"
          alt="LinkedIn" width="20" style="vertical-align:middle" />
-    <img src="https://img.shields.io/badge/Ashutosh%20Sharma-0077B5?logo=linkedin&logoColor=white"
+    <img src="https://img.shields.io/badge/ in  Ashutosh Sharma-0077B5?logo=linkedin&logoColor=white"
          alt="LinkedIn" style="vertical-align:middle" />
   </a>
 </p>
