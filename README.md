@@ -8,10 +8,10 @@
 * Participating in **Hackathons and Competitions**
 * Looking to collaborate on **Diffusion Models & 3D Processing Projects**
 
-## 📫 How to reach me
+## Connect
 
-* 📧 Email: [ashutosh10615@gmail.com](mailto:ashutosh10615@gmail.com)
-* 🌐 Portfolio: [my-portfolio-9czj.onrender.com](https://my-portfolio-9czj.onrender.com)
+* Email: [ashutosh10615@gmail.com](mailto:ashutosh10615@gmail.com)
+* Portfolio: [my-portfolio-9czj.onrender.com](https://my-portfolio-9czj.onrender.com)
 
 ## ⚡ Fun fact
 
