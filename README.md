@@ -15,7 +15,9 @@
 <p align="center" style="font-size:0; margin:0; padding:0;">
   <a href="https://x.com/ashutosh10615"><img src="https://img.shields.io/badge/@ashutosh10615-000000?logo=x&logoColor=white&style=flat-square" alt="X" /></a><!--
   --><a href="https://www.linkedin.com/in/ashutosh-sharma-7271b01a0"><img src="https://img.shields.io/badge/ in Ashutosh Sharma-0077B5?logo=linkedin&logoColor=white" /></a><!--
-  --><a href="mailto:ashutosh10615@gmail.com"><img src="https://img.shields.io/badge/ashutosh10615@gmail.com-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" style="display:inline-block;border:0;margin:0;padding:0;vertical-align:middle;" /></a>
+  --><a href="mailto:ashutosh10615@gmail.com"><img src="https://img.shields.io/badge/ashutosh10615@gmail.com-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" style="display:inline-block;border:0;margin:0;padding:0;vertical-align:middle;" /></a><!--
+  --><a href="https://www.codechef.com/users/imashtron"><img src="https://img.shields.io/badge/imashtron-FF6A00?logo=codechef&logoColor=white&style=flat-square"
+alt="CodeChef" style="display:inline-block;border:0;margin:0;padding:0;vertical-align:middle;" /></a>
 </p>
 
 ---
