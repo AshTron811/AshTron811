@@ -40,8 +40,7 @@ I once wrote an article that got 11K+ shares! 🎉
          alt="X badge"/>
   </a><!--
   --><a href="https://www.linkedin.com/in/ashutosh-sharma-7271b01a0">
-    <img src="https://img.shields.io/badge/LinkedIn-Ashutosh%20Sharma-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
-         alt="LinkedIn badge"/>
+<img src="https://img.shields.io/badge/in-Ashutosh%20Sharma-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
 </p>
 
