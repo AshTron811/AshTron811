@@ -34,14 +34,14 @@ I once wrote an article that got 11K+ shares! 🎉
 
 ---
 
-<p align="center">
+<p align="center" style="font-size:0; margin:0; padding:0;">
   <a href="https://x.com/ashutosh10615">
     <img src="https://img.shields.io/badge/@ashutosh10615-000000?logo=x&logoColor=white&style=for-the-badge"
          alt="X badge"/>
   </a><!--
-  --><a href="https://www.linkedin.com/in/ashutosh-sharma-7271b01a0">
-<img src="https://img.shields.io/badge/in-Ashutosh%20Sharma-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
-  </a>
+  -->
+  <a href="https://x.com/ashutosh10615"><img src="https://img.shields.io/badge/@ashutosh10615-000000?logo=x&logoColor=white&style=flat-square" alt="X" /></a><!--
+  --><a href="https://www.linkedin.com/in/ashutosh-sharma-7271b01a0"><img src="https://img.shields.io/badge/in-Ashutosh%20Sharma-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" /></a>
 </p>
 
 <!-- Activity and Streak Graphs -->
