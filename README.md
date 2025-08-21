@@ -6,11 +6,7 @@
 
 * Following the Advanced Generative AI for Developers Learning Path on Google Cloud
 * Participating in Hackathons
-
-## 👯 I’m looking to collaborate on
-
-* Open-source GIS analytics libraries
-* AI-driven sustainability projects
+* Looking to collaborate on Diffusion Models & 3D Processing Projects
 
 ## 📫 How to reach me
 
