@@ -34,22 +34,16 @@ I once wrote an article that got 11K+ shares! 🎉
 
 ---
 
-<table align="center" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
-  <tr>
-    <td>
-      <a href="https://x.com/ashutosh10615" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/@ashutosh10615-000000?logo=x&logoColor=white&style=flat-square"
-             alt="X @ashutosh10615" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.linkedin.com/in/ashutosh-sharma-7271b01a0" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/in-Ashutosh%20Sharma-0077B5?logo=linkedin&logoColor=white&style=flat-square"
-             alt="LinkedIn Ashutosh Sharma" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center" style="font-size:0; margin:0; padding:0;">
+  <a href="https://x.com/ashutosh10615">
+    <img src="https://img.shields.io/badge/@ashutosh10615-000000?logo=x&logoColor=white&style=flat-square"
+         alt="X" />
+  </a><!--
+  --><a href="https://www.linkedin.com/in/ashutosh-sharma-7271b01a0">
+    <img src="https://img.shields.io/badge/in-Ashutosh%20Sharma-ffffff?logo=linkedin&logoColor=0077B5&style=flat-square&labelColor=ffffff"
+         alt="LinkedIn" />
+  </a>
+</p>
 
 <!-- Activity and Streak Graphs -->
 
