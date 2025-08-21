@@ -35,15 +35,8 @@ I once wrote an article that got 11K+ shares! 🎉
 ---
 
 <p align="center">
-  <a href="https://x.com/ashutosh10615">
-    <img src="https://img.shields.io/badge/@ashutosh10615-000000?logo=x&logoColor=white"
-         alt="X badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ashutosh-sharma-7271b01a0">
-    <!-- one composite badge: icon + name in the same SVG -->
-    <img src="https://img.shields.io/badge/ in  Ashutosh Sharma-0077B5?logo=linkedin&logoColor=white"
-         alt="LinkedIn badge"/>
-  </a>
+  <a href="https://x.com/ashutosh10615"><img src="https://img.shields.io/badge/@ashutosh10615-000000?logo=x&logoColor=white" alt="X" style="display:block" border="0" /></a>
+  <a href="https://www.linkedin.com/in/ashutosh-sharma-7271b01a0"><img src="https://img.shields.io/badge/Ashutosh%20Sharma-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" style="display:block" border="0" /></a>
 </p>
 
 <!-- Activity and Streak Graphs -->
