@@ -4,7 +4,7 @@
 
 ## Current Endeavours
 
-* Following the Advanced Generative AI for Developers Learning Path
+* Following the Advanced Generative AI for Developers Learning Path on Google Cloud
 * Participating in Hackathons
 
 ## 👯 I’m looking to collaborate on
