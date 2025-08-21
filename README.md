@@ -4,9 +4,9 @@
 
 ## Current Endeavours
 
-* Following the Advanced Generative AI for Developers Learning Path on Google Cloud
-* Participating in Hackathons
-* Looking to collaborate on Diffusion Models & 3D Processing Projects
+* Following the **Advanced Generative AI for Developers Learning Path on Google Cloud**
+* Participating in **Hackathons and Competitions**
+* Looking to collaborate on **Diffusion Models & 3D Processing Projects**
 
 ## 📫 How to reach me
 
