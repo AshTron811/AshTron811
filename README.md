@@ -1,7 +1,5 @@
 # This Github Page belongs to **Ashutosh Sharma**
 
-Microsoft Certified | Machine Learning & Deep Learning Specialist
-
 ---
 
 ## 🔭 I’m currently working on
