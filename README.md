@@ -1,8 +1,6 @@
 # This Github Page belongs to **Ashutosh Sharma**
 
-🛠️ I build AI-powered geospatial tools and chatbots.
-
-📍 Based in Ghaziabad, India
+Machine Learning & Deep Learning Expert
 
 ---
 
