@@ -16,10 +16,6 @@
   --><a href="mailto:ashutosh10615@gmail.com"><img src="https://img.shields.io/badge/ashutosh10615@gmail.com-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" style="display:inline-block;border:0;margin:0;padding:0;vertical-align:middle;" /></a>
 </p>
 
-## ⚡ Fun fact
-
-I once wrote an article that got 11K+ shares! 🎉
-
 ---
 
 <!-- Activity and Streak Graphs -->
