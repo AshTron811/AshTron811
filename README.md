@@ -2,16 +2,10 @@
 
 ---
 
-## 🔭 I’m currently working on
+## Current Endeavours
 
-* A real-time 2D→3D reconstruction pipeline 🚀
-* Soil moisture forecasting using transformer models 🌱
-* Enhancing a WhatsApp chatbot for education support 🤖
-
-## 🌱 I’m learning
-
-* Advanced Transformer architectures (TFT, Linformer, Autoformer)
-* Cloud deployment with Docker & Azure
+* Following the Advanced Generative AI for Developers Learning Path
+* Participating in Hackathons
 
 ## 👯 I’m looking to collaborate on
 
