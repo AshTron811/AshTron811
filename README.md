@@ -34,19 +34,12 @@ I once wrote an article that got 11K+ shares! 🎉
 
 ---
 
-<p align="center" style="font-size:0; margin:0; padding:0;">
-  <a href="https://x.com/ashutosh10615">
+<p align="center" style="margin:0; padding:0;">
+  <a href="https://x.com/ashutosh10615" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://img.shields.io/badge/@ashutosh10615-000000?logo=x&logoColor=white&style=flat-square"
-      alt="X"
+      alt="social badges"
+      src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='460' height='28'><rect x='0' y='0' width='120' height='28' fill='%23000000'/><text x='60' y='19' font-family='Arial,%20Helvetica,%20sans-serif' font-weight='700' font-size='14' fill='%23ffffff' text-anchor='middle'>X</text><rect x='120' y='0' width='36' height='28' fill='%234b5563'/><text x='138' y='19' font-family='Arial,%20Helvetica,%20sans-serif' font-weight='700' font-size='12' fill='%230077B5' text-anchor='middle'>in</text><rect x='156' y='0' width='304' height='28' fill='%230077B5'/><text x='308' y='19' font-family='Arial,%20Helvetica,%20sans-serif' font-weight='700' font-size='12' fill='%23ffffff' text-anchor='middle'>Ashutosh%20Sharma</text></svg>"
       style="display:block;"
-    />
-  </a><!--
-  --><a href="https://www.linkedin.com/in/ashutosh-sharma-7271b01a0">
-    <img
-      src="https://img.shields.io/badge/in-Ashutosh%20Sharma-0077B5?logo=linkedin&logoColor=0077B5&style=flat-square&labelColor=4b5563"
-      alt="LinkedIn"
-      style="display:block; margin-left:-1px;"
     />
   </a>
 </p>
