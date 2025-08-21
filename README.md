@@ -8,6 +8,8 @@
 * Participating in **Hackathons and Competitions**
 * Looking to collaborate on **Diffusion Models & 3D Processing Projects**
 
+---
+
 ## Connect
 
 <p align="center" style="font-size:0; margin:0; padding:0;">
@@ -18,7 +20,7 @@
 
 ---
 
-<!-- GitHub Profile Stats, Trophies, and Graphs -->
+<!-- GitHub Profile Stats, Trophies, Activity and Streak Graphs -->
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AshTron811&theme=radical&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
@@ -29,10 +31,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshTron811&layout=donut&langs_count=8&theme=radical" alt="Top Languages" />
 </p>
 
----
-
-<!-- Activity and Streak Graphs -->
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshTron811&theme=radical" alt="Streak Stats" />
 </p>
+
+---
