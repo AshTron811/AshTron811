@@ -28,14 +28,8 @@ alt="WordPress" style="display:inline-block;border:0;margin:0;padding:0;vertical
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AshTron811&theme=radical&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshTron811&theme=radical" alt="Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshTron811&layout=donut&langs_count=8&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AshTron811&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 </p>
 
