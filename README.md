@@ -1,6 +1,6 @@
 # This Github Page belongs to **Ashutosh Sharma**
 
-Microsoft Certified | Machine Learning & Deep Learning Expert
+Microsoft Certified | Machine Learning & Deep Learning Specialist
 
 ---
 
