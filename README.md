@@ -35,19 +35,13 @@ I once wrote an article that got 11K+ shares! 🎉
 ---
 
 <p align="center">
-  <!-- X badge (block) -->
-  <a href="https://x.com/ashutosh10615">
+  <a href="https://x.com/ashutosh10615" style="display:inline-block">
     <img src="https://img.shields.io/badge/@ashutosh10615-000000?logo=x&logoColor=white"
-         alt="X" style="display:block" />
+         alt="X badge" style="display:inline-block;margin:0;border:0"/>
   </a>
-
-  <!-- LinkedIn logo + name in ONE block -->
-  <a href="https://www.linkedin.com/in/ashutosh-sharma-7271b01a0" style="display:block">
-    <img src="https://static.licdn.com/aero-v1/sc/h/5bukxbhy9xsil5mb7c2wulfbx"
-         alt="LinkedIn" width="20" style="vertical-align:middle" />
-    <img src="https://img.shields.io/badge/ in  Ashutosh Sharma-0077B5?logo=linkedin&logoColor=white"
-         alt="LinkedIn" style="vertical-align:middle" />
-  </a>
+  <a href="https://www.linkedin.com/in/ashutosh-sharma-7271b01a0" style="display:inline-block"><img src="https://static.licdn.com/aero-v1/sc/h/5bukxbhy9xsil5mb7c2wulfbx"
+         alt="LinkedIn icon" width="20" style="display:inline-block;margin:0;border:0"/><img src="https://img.shields.io/badge/Ashutosh%20Sharma-0077B5?logo=linkedin&logoColor=white"
+         alt="LinkedIn badge" style="display:inline-block;margin:0;border:0"/></a>
 </p>
 
 <!-- Activity and Streak Graphs -->
