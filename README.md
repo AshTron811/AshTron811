@@ -6,7 +6,7 @@
 
 * Looking to collaborate on **Diffusion Models & 3D Processing Projects**
 * Following the **Advanced Generative AI for Developers Learning Path on Google Cloud**
-* Participating in **Hackathons and Competitions**
+* Participating in **Hackathons and Coding Competitions**
 
 ---
 
