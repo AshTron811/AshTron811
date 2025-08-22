@@ -2,8 +2,8 @@
 
 ~ Social Network (2010)
 
-# **Hello, I'm Ashutosh Sharma! I'm...**
-
+# **Hello, I'm Ashutosh Sharma!**
+## I'm...
 * Looking to collaborate on **Diffusion Models & 3D Processing Projects**.
 * Following the **Advanced Generative AI for Developers Learning Path on Google Cloud**.
 * Participating in **Hackathons and Coding Competitions**.
