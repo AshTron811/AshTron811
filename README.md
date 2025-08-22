@@ -1,4 +1,4 @@
-# This Github Page belongs to **Ashutosh Sharma**
+# **Ashutosh Sharma**
 
 ---
 
