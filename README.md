@@ -1,4 +1,4 @@
-# **Ashutosh Sharma*
+# **Ashutosh Sharma**
 
 ---
 
