@@ -1,7 +1,8 @@
-<h1 align="center">Ashutosh Sharma</h1>
+# **Ashutosh Sharma*
+
 ---
 
-<h1 align="center">Current Endeavours</h1>
+# **Current Endeavours**
 
 * Looking to collaborate on **Diffusion Models & 3D Processing Projects**
 * Following the **Advanced Generative AI for Developers Learning Path on Google Cloud**
@@ -9,7 +10,7 @@
 
 ---
 
-<h1 align="center">Connect</h1>
+# **Connect**
 
 <p align="center" style="font-size:0; margin:0; padding:0;">
   <a href="https://x.com/ashutosh10615"><img src="https://img.shields.io/badge/@ashutosh10615-000000?logo=x&logoColor=white&style=flat-square" alt="X" /></a><!--
