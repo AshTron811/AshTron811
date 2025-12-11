@@ -4,7 +4,7 @@
 
 # **Hello, I'm Ashutosh Sharma!**
 ## I'm...
-* Looking to collaborate on **Diffusion Models & 3D Processing Projects**.
+* Looking to collaborate on **Large Language Models & 3D Processing Projects**.
 * Following the **Advanced Generative AI for Developers Learning Path on Google Cloud**.
 * Participating in **Hackathons and Coding Competitions**.
 
